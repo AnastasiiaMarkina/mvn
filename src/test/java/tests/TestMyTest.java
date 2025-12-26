@@ -20,4 +20,9 @@ public class TestMyTest {
             assert url != null && !url.isEmpty() : "URL should not be null or empty";
         });
     }
+
+    @Test
+    void TestShouldFail() {
+        throw new RuntimeException("This test is designed to fail");
+    }
 }
