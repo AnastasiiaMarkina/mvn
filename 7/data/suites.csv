@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","18","TestShouldFail()","","Fri Dec 26 15:03:35 UTC 2025","broken","Fri Dec 26 15:03:35 UTC 2025","","tests.TestMyTest","tests.TestMyTest","TestShouldFail"
+"","7","Test()","","Fri Dec 26 15:03:36 UTC 2025","passed","Fri Dec 26 15:03:36 UTC 2025","","tests.TestMyTest","tests.TestMyTest","Test"
